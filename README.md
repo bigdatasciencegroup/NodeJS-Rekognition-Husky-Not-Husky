@@ -1,4 +1,4 @@
-# nodejs-rekognition
+# NodeJS-Rekognition-Husky-Not-Husky
 Node.js to control AWS rekognition.
 
 Inspired from Donnie Prakoso's python work at https://github.com/donnieprakoso/Husky-Not-Husky, re-code in NodeJS. 
